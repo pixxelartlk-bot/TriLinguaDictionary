@@ -1,0 +1,2 @@
+# TriLinguaDictionary
+Dictionery
